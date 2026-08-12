@@ -1,6 +1,7 @@
 # Blooms CMS
 
 Blooms was a lean and semantic CMS developed manually in 2018.
+﹫todo: Archive!
 
 # Features
 - HTML aggregation (no markdown or the like)
