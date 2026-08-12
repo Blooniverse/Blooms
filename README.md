@@ -17,3 +17,4 @@ Blooms was a lean and semantic CMS developed manually in 2018.
 - XML
 - XSL
 - RDFa
+- SSH & SSHFS
